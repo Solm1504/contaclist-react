@@ -1,0 +1,118 @@
+.pfp {
+    width: 300px;
+}
+
+.buttons {
+    cursor: pointer;   
+   }
+
+.maincard {
+    margin-bottom: 5px;
+    padding: 10px;
+    align-content: center;
+    width: 800px;
+}
+
+.contactadd {
+    width: 500px;
+}
+
+.addybook {
+    font-family: 'Monoton', cursive;
+}
+
+.book {
+    width: 50px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-sm {
+    background-color: #c25a15;
+    opacity: .75;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.pretty {
+    font-family: 'Michroma', sans-serif;
+}
+
+.iconcontact {
+    margin-left: 5px;
+}
+
+.backbtn {
+    opacity: .85;
+    border-radius: 10px;
+    margin-top: 10px;
+    height: 35px;
+}
+
+.groups {
+    margin-left: 55px;
+    margin-top: 2px;
+}
+
+.nametag {
+    opacity: .8;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+}
+
+.custombutton {
+    background-color: white;
+    border: none;
+    opacity: .55;
+    font-size: 22px;
+    margin-left: 15px;
+}
+
+.addbtn {
+    justify-content: left;
+    position: relative;
+    width: 125px;
+}
+
+.addcont {
+    width: 800px;
+    justify-content: left;
+}
+
+.edtdelbtn {
+    width: 400px;
+    margin-top: 3px;
+    margin-left: 80px;
+}
+
+.delbtn {
+    color: #FF4F1F;
+    /* color: black; */
+}
+
+.editbtn {
+    color: #00ECC2;
+    /* color: black; */
+}
+
+/* .branch {
+    width: 100px;
+    object-fit: contain;
+    margin-left: 1px;
+    margin-top: 200px;
+} */
+
+.banana {
+    width: 70px;
+    background-repeat: repeat-y;
+}
+
+.bananarepublic {
+    width: 800px;
+    margin-top: 20px;
+    font-size: 35px;
+}
+
+.offwhite {
+    font-family: 'Open Sans', sans-serif;
+}
